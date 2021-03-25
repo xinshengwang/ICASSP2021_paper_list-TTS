@@ -1,2 +1,2 @@
-# ICASSP_2021_paper_list_-TTS-
-TTS papers accepted to ICASSP 2021
+# ICASSP 2021 accepted papers in term of text-to-speech synthesis (TTS)
+
